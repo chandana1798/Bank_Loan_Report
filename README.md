@@ -47,6 +47,7 @@ Grid view consist of below fields
 8.Int Rate  
 9.Installment  
 10.Total Amount Received  
-Click here download Power Bi file:
+Click here to download Data set:https://github.com/chandana1798/Bank_Loan_Report/blob/main/main.csv  
+Click here to download Power bi file:https://github.com/chandana1798/Bank_Loan_Report/blob/main/Bank%20Loan%20Report.pbit
 
 
