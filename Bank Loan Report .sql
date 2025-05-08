@@ -1,4 +1,4 @@
---Finance Domain Project
+--Bank Loan Repot SQL Project
 
 --First run below query to run execute all queries
 use [Bank Loan DB]
