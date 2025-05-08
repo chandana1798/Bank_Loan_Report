@@ -51,5 +51,5 @@ Grid view consist of below fields
 ## Links:
 Click here to download Data set:https://github.com/chandana1798/Bank_Loan_Report/blob/main/main.csv  
 Click here to download Power bi file:https://github.com/chandana1798/Bank_Loan_Report/blob/main/Bank%20Loan%20Report.pbit
-
+Click here to download SQL File:https://github.com/chandana1798/Bank_Loan_Report/blob/main/Bank%20Loan%20Report%20.sql
 
